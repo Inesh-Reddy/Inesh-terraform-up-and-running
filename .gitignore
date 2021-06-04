@@ -1,0 +1,24 @@
+.DS_Store
+.terraform
+.terraform.*
+.terraform/*
+*.tfstate.*
+*.tfstate
+*.tfstate.backup
+
+
+Deploy-a-single-server/.terraform
+Deploy-a-single-server/.terraform.*
+Deploy-a-single-server/*.tfstate.*
+Deploy-a-single-server/*.tfstste.backup
+
+
+Deploy-a-single-web-server /.terraform
+Deploy-a-single-web-server /.terraform.*
+Deploy-a-single-web-server /.tfstate
+Deploy-a-single-web-server /.tfstate.*
+
+Deploy-a-configurable-webserver/.terraform
+Deploy-a-configurable-webserver/.terraform.*
+Deploy-a-configurable-webserver/.tfstate
+Deploy-a-configurable-webserver/.tfstate.*
